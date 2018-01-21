@@ -27,16 +27,8 @@ and then clone it to your development environment.
 
 ```
 ==============================================================================
-total 40
-drwxr-xr-x  4 kelly kelly 4096 Jan 15 13:43 .
-drwxr-xr-x 13 kelly kelly 4096 Jan 15 13:43 ..
-drwxr-xr-x  7 kelly kelly 4096 Jan 15 13:43 challenge_files
-drwxr-xr-x  8 kelly kelly 4096 Jan 15 13:43 .git
--rw-r--r--  1 kelly kelly 1086 Jan 15 13:43 LICENSE
--rw-r--r--  1 kelly kelly 5602 Jan 16 20:28 nix_scavenger_hunt.md
--rw-r--r--  1 kelly kelly  317 Jan 15 13:43 nix_scavenger_hunt_stretch.md
--rw-r--r--  1 kelly kelly 2745 Jan 15 13:43 README.md
--rw-r--r--  1 kelly kelly  191 Jan 15 13:43 super_scavengers.md
+challenge_files  nix_scavenger_hunt.md          README.md
+LICENSE          nix_scavenger_hunt_stretch.md  super_scavengers.md
 ==============================================================================
 ```
 
