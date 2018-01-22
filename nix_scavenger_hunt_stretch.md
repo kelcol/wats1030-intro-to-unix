@@ -10,7 +10,7 @@ Answer: `Zardoz`
 Command:
 `curl http://www.imdb.com/title/tt0070948/ | grep og:title`
 
-Complete output:
+Output:
 ```
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
 							   Dload  Upload   Total   Spent    Left  Speed

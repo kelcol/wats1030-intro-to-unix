@@ -35,6 +35,7 @@ LICENSE          nix_scavenger_hunt_stretch.md  super_scavengers.md
 * You can use *options* to modify how a command runs. Try using `ls -alh` to see the contents of your current directory. *How are the results different when you use the `-alh` options?*
 
 ```
+The flags instruct everything including hidden files and directories to be listed along with file/directory permissions, human-readable size, and last modified date/time stamps.
 ==============================================================================
 total 40K
 drwxr-xr-x  4 kelly kelly 4.0K Jan 15 13:43 .
